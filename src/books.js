@@ -49,27 +49,20 @@ export const DATA = [
   
   {
     id: 8,
-    img: "https://images-na.ssl-images-amazon.com/images/I/81a5KHEkwQL._AC_UL127_SR127,127_.jpg",
-    author: "Dr. Seuss",
-    title: "Oh, the Places You'll Go!",
-  },
-  
-  {
-    id: 9,
     img: "https://images-na.ssl-images-amazon.com/images/I/81nzxODnaJL._AC_UL600_SR600,400_.jpg",
     author: "Ann Whitford Paul",
     title: "If Animals Kissed Good Night",
   },
   
   {
-    id: 10,
+    id: 9,
     img: "https://images-na.ssl-images-amazon.com/images/I/81t-IstQ+ZL._AC_UL600_SR600,400_.jpg",
     author: "Margaret Wise Brown",
     title: "Goodnight Moon",
   },
   
   {
-    id: 11,
+    id: 10,
     img: "https://images-na.ssl-images-amazon.com/images/I/811SRapU9aL._AC_UL600_SR600,400_.jpg",
     author: "School Zone",
     title: "Big Preschool Workbook",
