@@ -21,6 +21,9 @@ function Booklist() {
     </section>
   );
 }
+function Gretting() {
+  return <h1>hello</h1>;
+}
 
 const root = ReactDom.createRoot(document.getElementById("root"));
 root.render(
