@@ -11,7 +11,6 @@ import { greeting } from "./testing/testing";
 // setup vars
 
 function Booklist() {
-  console.log(greeting);
   return (
     <section className="Booklist">
       {DATA.map((book, index) => {
@@ -20,9 +19,6 @@ function Booklist() {
       })}
     </section>
   );
-}
-function Gretting() {
-  return <h1>hello</h1>;
 }
 
 const root = ReactDom.createRoot(document.getElementById("root"));
